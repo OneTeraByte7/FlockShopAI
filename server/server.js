@@ -12,7 +12,8 @@ app.use(express.json());
 
 // Routes
 app.use("/api/auth", require("./routes/auth"));
-app.use("/api/wishlist", require("./routes/wishlist"));
+app.use("/api/wishlists", require("./routes/wishlist"));
+
 
 // Connect DB
 mongoose.connect(process.env.MONGO_URI, {
