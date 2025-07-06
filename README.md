@@ -4,18 +4,6 @@ A full-stack collaborative wishlist platform where users can create and manage s
 
 ---
 
-## 🌐 Live Demo (Optional)
-
-> _Add your deployed link here if hosted on Vercel / Netlify / Render / Cyclic etc._
-
----
-
-## 📸 Screenshots
-
-> _Include screenshots or a Loom/video demo here_
-
----
-
 ## 🚀 Features
 
 ### 👥 User Auth
